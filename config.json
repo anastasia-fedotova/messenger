@@ -1,0 +1,11 @@
+{
+	"userId": "user1",
+	"contactList": [
+		"user2",
+		"user3",
+		"user4"
+	],
+	"topic": "test",
+	"serverName": "localhost",
+	"serverPort": "6667"
+}
